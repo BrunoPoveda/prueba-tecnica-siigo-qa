@@ -5,12 +5,12 @@ Este repositorio contiene la documentación y los casos de prueba generados para
 
 ## Contenido:
 
-* **Análisis de Técnicas de Diseño de Pruebas:** [Ver el documento](tecnicas)
+* **Análisis de Técnicas de Diseño de Pruebas:** [Ver el documento](tecnicas.md)
 * **Casos de Prueba en Gherkin:**
     * [Casos de Prueba Unitarios](unitarias.feature)
     * [Casos de Prueba de Integración](integracion.feature)
     * [Casos de Prueba End-to-End](E2E.feature)
-* **Reporte de Bug:** [Ver el reporte del bug](bug)
+* **Reporte de Bug:** [Ver el reporte del bug](bug.md)
 
 ## Instrucciones para revisar:
 
